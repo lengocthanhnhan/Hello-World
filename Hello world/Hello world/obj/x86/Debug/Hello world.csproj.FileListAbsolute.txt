@@ -1,0 +1,7 @@
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\bin\Debug\Hello world.exe
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\bin\Debug\Hello world.pdb
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\obj\x86\Debug\Hello_world.Properties.Resources.resources
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\obj\x86\Debug\Hello world.csproj.GenerateResource.Cache
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\obj\x86\Debug\Hello world.exe
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\obj\x86\Debug\Hello world.pdb
+C:\Users\Administrator.MRNC-GK1SVB1P2V\Documents\GitHub\Hello-World\Hello world\Hello world\obj\x86\Debug\Hello_world.frmHelloWorld.resources
